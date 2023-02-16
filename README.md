@@ -1,6 +1,6 @@
 Description :
 =============
-I just shared my works, which I worked as learning path and practiced some C programming such as unordered Single Linked list of Employee's Record locally using EmpID as key based Single Linked List.
+I just shared my works, which I worked as learning path and practiced some C programming such as ordered Single Linked list of Employee's Record locally using EmpID as key based Single Linked List.
 
 Purpose :
 =========
